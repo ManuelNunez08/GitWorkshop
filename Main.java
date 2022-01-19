@@ -16,7 +16,7 @@ public class Main
             System.out.println("5. Chicken Nuggies");
             System.out.println("6. Chicken sandwich");
             System.out.println("0. Done");
-            System.out.print("Select an option: ");
+            System.out.print("Select an option i did it: ");
 
             Scanner scanner = new Scanner(System.in);
             option = scanner.nextInt();
